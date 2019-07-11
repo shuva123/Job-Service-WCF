@@ -1,0 +1,26 @@
+﻿@model IEnumerable<JobServiceClient2.JobServiceReference.Jobs>
+@{
+       ViewBag.Title = "Home Page";
+}
+
+<br />
+
+<div class="row">
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>JobID</th>
+                <th>Role</th>
+                <th>Jobs</th>
+            </tr>
+        </thead>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Role</td>
+                <td>@item.Job</td>
+            </tr>
+        }
+    </table>
+</div>
