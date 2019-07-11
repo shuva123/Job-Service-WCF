@@ -1,0 +1,12 @@
+D:\542316\wcf1-master\wcf1-master\JobsService\bin\Debug\JobsService.dll.config
+D:\542316\wcf1-master\wcf1-master\JobsService\bin\Debug\JobsService.dll
+D:\542316\wcf1-master\wcf1-master\JobsService\bin\Debug\JobsService.pdb
+D:\542316\wcf1-master\wcf1-master\JobsService\obj\Debug\JobsService.dll
+D:\542316\wcf1-master\wcf1-master\JobsService\obj\Debug\JobsService.pdb
+D:\542316\wcf1-master\wcf1-master\JobsService\obj\Debug\JobsService.csprojResolveAssemblyReference.cache
+D:\379982\Study\Projects\Job Service\JobService\JobsService\bin\Debug\JobsService.dll.config
+D:\379982\Study\Projects\Job Service\JobService\JobsService\bin\Debug\JobsService.dll
+D:\379982\Study\Projects\Job Service\JobService\JobsService\bin\Debug\JobsService.pdb
+D:\379982\Study\Projects\Job Service\JobService\JobsService\obj\Debug\JobsService.csprojResolveAssemblyReference.cache
+D:\379982\Study\Projects\Job Service\JobService\JobsService\obj\Debug\JobsService.dll
+D:\379982\Study\Projects\Job Service\JobService\JobsService\obj\Debug\JobsService.pdb

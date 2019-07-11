@@ -1,0 +1,8 @@
+D:\542316\wcf1-master\wcf1-master\JobHost\bin\Debug\JobHost.exe.config
+D:\542316\wcf1-master\wcf1-master\JobHost\bin\Debug\JobHost.exe
+D:\542316\wcf1-master\wcf1-master\JobHost\bin\Debug\JobHost.pdb
+D:\542316\wcf1-master\wcf1-master\JobHost\bin\Debug\JobsService.dll
+D:\542316\wcf1-master\wcf1-master\JobHost\bin\Debug\JobsService.pdb
+D:\542316\wcf1-master\wcf1-master\JobHost\obj\Debug\JobHost.csprojResolveAssemblyReference.cache
+D:\542316\wcf1-master\wcf1-master\JobHost\obj\Debug\JobHost.exe
+D:\542316\wcf1-master\wcf1-master\JobHost\obj\Debug\JobHost.pdb
